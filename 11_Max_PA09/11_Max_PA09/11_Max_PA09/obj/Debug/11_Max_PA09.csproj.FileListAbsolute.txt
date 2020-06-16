@@ -1,0 +1,10 @@
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\bin\Debug\11_Max_PA09.exe.config
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\bin\Debug\11_Max_PA09.exe
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\bin\Debug\11_Max_PA09.pdb
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\11_Max_PA09.csprojAssemblyReference.cache
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\_11_Max_PA09.Form1.resources
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\_11_Max_PA09.Properties.Resources.resources
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\11_Max_PA09.csproj.GenerateResource.cache
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\11_Max_PA09.csproj.CoreCompileInputs.cache
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\11_Max_PA09.exe
+C:\Users\Max Oh\Desktop\11_Max_PA09\11_Max_PA09\11_Max_PA09\obj\Debug\11_Max_PA09.pdb
